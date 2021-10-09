@@ -224,5 +224,226 @@
       "description": "Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!"
     }
   ],
-  "feedback": []
+  "feedback": [
+    {
+      "firstname": "Ifran",
+      "lastname": "Ali",
+      "telnum": "13154751",
+      "email": "ifran.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Tel",
+      "message": "Nice place",
+      "id": 1
+    },
+    {
+      "firstname": "Ifran Ali",
+      "lastname": "Ali",
+      "telnum": "21454751",
+      "email": "ifran.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "Nice know",
+      "id": 2
+    },
+    {
+      "firstname": "Ifran Ali",
+      "lastname": "Ali",
+      "telnum": "24574544",
+      "email": "ifran.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "New Nice",
+      "id": 3
+    },
+    {
+      "firstname": "Iffy",
+      "lastname": "Ali",
+      "telnum": "2534",
+      "email": "ifran.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Tel",
+      "message": "WOOW",
+      "id": 4
+    },
+    {
+      "firstname": "Ifran Ali",
+      "lastname": "Ali",
+      "telnum": "42757",
+      "email": "ifran.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "WOOW1",
+      "id": 5
+    },
+    {
+      "firstname": "Ifran Ali",
+      "lastname": "Ali",
+      "telnum": "2545456",
+      "email": "ifran.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "WOOow2",
+      "id": 6
+    },
+    {
+      "firstname": "Ifran Ali",
+      "lastname": "Ali",
+      "telnum": "55555",
+      "email": "ifran.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "fdfeffed",
+      "id": 7
+    },
+    {
+      "firstname": "Ifran Ali",
+      "lastname": "Ali",
+      "telnum": "42424",
+      "email": "ifran.ali@dhl.com",
+      "agree": false,
+      "contacttype": "Email",
+      "message": "jtyuyuyuyuy",
+      "id": 8
+    },
+    {
+      "firstname": "Ifran Ali",
+      "lastname": "Ali",
+      "telnum": "425225",
+      "email": "ifran.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Tel",
+      "message": "aadada",
+      "id": 9
+    },
+    {
+      "firstname": "Ifran Ali",
+      "lastname": "Ali",
+      "telnum": "4547545",
+      "email": "ifran.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "sdsdsds",
+      "id": 10
+    },
+    {
+      "firstname": "Ifran Ali",
+      "lastname": "Ali",
+      "telnum": "2445",
+      "email": "ifran.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Tel",
+      "message": "dsdssds",
+      "id": 11
+    },
+    {
+      "firstname": "Ifran Ali",
+      "lastname": "Ali",
+      "telnum": "4545",
+      "email": "ifran.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Tel",
+      "message": "cdgdgd",
+      "id": 12
+    },
+    {
+      "firstname": "Ifran Ali",
+      "lastname": "Ali",
+      "telnum": "124856",
+      "email": "ifran.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Tel",
+      "message": "Nice food, yo",
+      "id": 13
+    },
+    {
+      "firstname": "Ifran Ali",
+      "lastname": "Ali",
+      "telnum": "1434",
+      "email": "ifran.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "dfdfdf",
+      "id": 14
+    },
+    {
+      "firstname": "Ifran",
+      "lastname": "ali",
+      "telnum": "45424",
+      "email": "ifra.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "zdssfsfsgfs",
+      "id": 15
+    },
+    {
+      "firstname": "Ifran Ali",
+      "lastname": "Ali",
+      "telnum": "1434",
+      "email": "ifran.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Tel",
+      "message": "Amazing",
+      "id": 16
+    },
+    {
+      "firstname": "Ifran Ali",
+      "lastname": "Ali",
+      "telnum": "4542",
+      "email": "ifran.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "really nice",
+      "id": 17
+    },
+    {
+      "firstname": "Ifran Ali",
+      "lastname": "Ali",
+      "telnum": "424",
+      "email": "ifran.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "cool place",
+      "id": 18
+    },
+    {
+      "firstname": "Ifran Ali",
+      "lastname": "Ali",
+      "telnum": "54424",
+      "email": "ifran.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "coolio food",
+      "id": 19
+    },
+    {
+      "firstname": "Ifran Ali",
+      "lastname": "Ali",
+      "telnum": "124524",
+      "email": "ifran.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "Nice place",
+      "id": 20
+    },
+    {
+      "firstname": "Ifran Ali",
+      "lastname": "Ali",
+      "telnum": "235645",
+      "email": "ifran.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "nice i iyo",
+      "id": 21
+    },
+    {
+      "firstname": "Ifran Ali",
+      "lastname": "Ali",
+      "telnum": "122454",
+      "email": "ifran.ali@dhl.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "Really good",
+      "id": 22
+    }
+  ]
 }
