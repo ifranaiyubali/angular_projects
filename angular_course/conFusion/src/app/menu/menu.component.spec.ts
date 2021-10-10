@@ -57,4 +57,16 @@ describe('MenuComponent', () => {
     expect(component.dishes[3].featured).toBeFalsy();
   });
 
+  it('should use dishes in the template', () => {
+    fixture.detectChanges();
+
+    let de:      DebugElement;
+    let el:      HTMLElement;
+    de = fixture.debugElement.query(By.css('h1'));
+    el = de.nativeElement;
+    
+    expect(el.textContent).toContain(DISHES[0].name.toUpperCase());
+
+  });
+
 });
