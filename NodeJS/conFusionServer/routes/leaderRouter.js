@@ -61,7 +61,7 @@ leaderRouter
 leaderRouter
     .route('/:leaderId')
     .options(cors.corsWithOptions, (req, res) => { res.sendStatus(200); })
-    .get(cors.corsWithOptions, cors.cors,(req, res, next) => {
+    .get(cors.cors,(req, res, next) => {
         Leaders.findById(req.params.leaderId)
         .then(
           (leader) => {
